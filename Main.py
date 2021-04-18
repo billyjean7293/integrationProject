@@ -244,7 +244,7 @@ def to_divide(num1, num2):
 
 
 def divisible_numbers(num1, num2):
-    """This function accepts two numbers a"""
+    """This function accepts two numbers to perform floor division"""
     return num1 // num2
 
 

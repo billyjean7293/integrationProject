@@ -1,4 +1,4 @@
-"""Imported random function 5o get a random variable on line 182, 184, & 185"""
+"""Imported random function to get random numbers on line 182, 184, & 185"""
 import random
 
 __author__ = "Billy Jean Baptiste"
